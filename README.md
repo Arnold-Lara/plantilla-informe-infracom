@@ -1,4 +1,4 @@
-# Formato recomendado para los laboratorios
+# Plantilla de informe de laboratorios Infracom
 
 Para utilizar este formato descargue este repositorio en formato .zip y:
 
@@ -13,4 +13,4 @@ le daran una introducción rapida
 
 Saludos
 
-### Equipo de monitores - Infraestructura de comunicaciones
+### Autor: Geovanny González Rodriguez
